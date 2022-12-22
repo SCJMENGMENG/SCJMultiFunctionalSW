@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-SCJMultiFunctionalSW/Pods-SCJMultiFunctionalSW-frameworks.sh
+${BUILT_PRODUCTS_DIR}/JXSegmentedView/JXSegmentedView.framework
+${BUILT_PRODUCTS_DIR}/MGJRouter_Swift/MGJRouter_Swift.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/YYKit/YYKit.framework

@@ -1,0 +1,30 @@
+PODS:
+  - JXSegmentedView (1.1.0)
+  - Masonry (1.1.0)
+  - MGJRouter_Swift (0.1.2)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - JXSegmentedView
+  - Masonry
+  - MGJRouter_Swift
+  - YYKit
+
+SPEC REPOS:
+  trunk:
+    - JXSegmentedView
+    - Masonry
+    - MGJRouter_Swift
+    - YYKit
+
+SPEC CHECKSUMS:
+  JXSegmentedView: 072a2979323f98fc5d0e0e5dc2342549ae8a5c8f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MGJRouter_Swift: ae89cc7c4c82618b636cc9c7b15636e516080d3c
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: dbb1bfefdd5376908ee4063e866a5fc768bfa926
+
+COCOAPODS: 1.11.2
